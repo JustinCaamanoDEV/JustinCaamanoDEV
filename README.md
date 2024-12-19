@@ -16,7 +16,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/oncaxg6goebjifk1fgef7bw3u)
 
 ---
 
@@ -54,10 +54,10 @@
   
 <div align="center"> 
    <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JustinGit&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JustinCaamanoDEV&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
    </a>
    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinGit&theme=react&line_height=40&hide=css"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinCaamanoDEV&theme=react&line_height=40&hide=css"/>
    </a>
 </div>
 
