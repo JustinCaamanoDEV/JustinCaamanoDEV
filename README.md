@@ -1,8 +1,8 @@
-# Hi there, I'm [Tu Nombre] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm Justin <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Software Engineer 👨‍💻
+## I'm a Computer Engineer 👨‍💻
 
 - 🌐 Currently working on web development projects using PHP, MySQL, and JavaScript.
 - 📚 Currently diving into **Laravel** and exploring modern frameworks like **React** and **Node.js**.
@@ -67,10 +67,8 @@
 
 ---
 
-### ⭐️ From [YourUsername](https://github.com/YourUsername) ### 
+### ⭐️ From [JustinCaamanoDEV](https://github.com/JustinCaamanoDEV) ### 
 
 ---
 
-[website]: https://yourwebsite.com
-[instagram]: https://www.instagram.com/yourhandle
-[linkedin]: https://www.linkedin.com/in/yourprofile
+[linkedin]: https://www.linkedin.com/in/justin-caama%C3%B1o-46543518a/
